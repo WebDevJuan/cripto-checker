@@ -76,7 +76,7 @@ const Formulario = ({setMonedas}) => {
                 
                 <InputSubmit 
                     type="submit" 
-                    value="Cotizar" 
+                    value="Comprobar" 
                 />
             </form>
         </>
